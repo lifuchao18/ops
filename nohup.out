@@ -1,0 +1,69 @@
+
+[23/Apr/2021 13:53:29] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:30] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:30] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:30] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:30] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:30] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:53:31] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:54:11] "POST /upload/ HTTP/1.1" 200 0
+20210423-1354
+build.zip
+Archive:  build.zip
+   creating: build/
+  inflating: build/favicon.ico       
+  inflating: build/index.html        
+  inflating: build/logo512.png       
+  inflating: build/asset-manifest.json  
+   creating: build/static/
+  inflating: build/manifest.json     
+  inflating: build/robots.txt        
+  inflating: build/logo192.png       
+   creating: build/static/css/
+   creating: build/static/js/
+   creating: build/static/media/
+  inflating: build/static/css/vendors~main.3ad5e743.chunk.css  
+  inflating: build/static/css/main.8a67ba6b.chunk.css.gz  
+  inflating: build/static/css/main.8a67ba6b.chunk.css.map  
+  inflating: build/static/css/main.8a67ba6b.chunk.css  
+  inflating: build/static/css/vendors~main.3ad5e743.chunk.css.map  
+  inflating: build/static/css/vendors~main.3ad5e743.chunk.css.gz  
+  inflating: build/static/js/libs~main.b3299989.chunk.js.gz  
+  inflating: build/static/js/7.d0ded6f4.chunk.js.LICENSE.txt  
+  inflating: build/static/js/vendors~main.a031725d.chunk.js.map  
+  inflating: build/static/js/0.06061202.chunk.js.map  
+  inflating: build/static/js/7.d0ded6f4.chunk.js.gz  
+  inflating: build/static/js/runtime-main.6e831db0.js  
+  inflating: build/static/js/libs~main.b3299989.chunk.js  
+  inflating: build/static/js/8.d6438a2c.chunk.js.LICENSE.txt  
+  inflating: build/static/js/bigModules~main.b433201d.chunk.js.gz  
+  inflating: build/static/js/runtime-main.6e831db0.js.gz  
+  inflating: build/static/js/runtime-main.6e831db0.js.map  
+  inflating: build/static/js/libs~main.b3299989.chunk.js.LICENSE.txt  
+  inflating: build/static/js/bigModules~main.b433201d.chunk.js.LICENSE.txt  
+  inflating: build/static/js/main.c5fd9fff.chunk.js.map  
+  inflating: build/static/js/main.c5fd9fff.chunk.js.gz  
+  inflating: build/static/js/bigModules~main.b433201d.chunk.js  
+  inflating: build/static/js/6.01ec8811.chunk.js.gz  
+  inflating: build/static/js/8.d6438a2c.chunk.js.map  
+  inflating: build/static/js/libs~main.b3299989.chunk.js.map  
+  inflating: build/static/js/6.01ec8811.chunk.js.LICENSE.txt  
+  inflating: build/static/js/main.c5fd9fff.chunk.js  
+  inflating: build/static/js/vendors~main.a031725d.chunk.js  
+  inflating: build/static/js/6.01ec8811.chunk.js.map  
+  inflating: build/static/js/0.06061202.chunk.js  
+  inflating: build/static/js/vendors~main.a031725d.chunk.js.gz  
+  inflating: build/static/js/7.d0ded6f4.chunk.js  
+  inflating: build/static/js/8.d6438a2c.chunk.js  
+  inflating: build/static/js/7.d0ded6f4.chunk.js.map  
+  inflating: build/static/js/bigModules~main.b433201d.chunk.js.map  
+  inflating: build/static/js/vendors~main.a031725d.chunk.js.LICENSE.txt  
+  inflating: build/static/js/8.d6438a2c.chunk.js.gz  
+  inflating: build/static/js/0.06061202.chunk.js.gz  
+  inflating: build/static/js/6.01ec8811.chunk.js  
+  inflating: build/static/media/img-workstation.c418a7b7.png  
+  inflating: build/static/media/delete.ac74e4df.png  
+[23/Apr/2021 13:54:16] "POST / HTTP/1.1" 302 0
+[23/Apr/2021 13:54:16] "GET /deploy/ HTTP/1.1" 200 26
+[23/Apr/2021 13:54:20] "GET / HTTP/1.1" 200 3611
+[23/Apr/2021 13:54:21] "GET / HTTP/1.1" 200 3611
